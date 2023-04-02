@@ -11,7 +11,6 @@ void setup() {
 
  
 }
-int colors[] = {0xCCCC00, 0x1111CC, 0x003333, 0x882222};
 void loop() {
   // Turn on Color Red:
       pixels.fill(0x200000, 0, 10);
