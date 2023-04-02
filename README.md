@@ -11,7 +11,7 @@ Included in this project are three example Arduino codes demonstrating different
  
 **LEDStrip_FillColor.ino** - I assigned a single color to fill all LEDs in the strip one at a time. Once fully filled, they turn off all at once. Process is then repeated. I put in comments the different color values that can be used if users want to change color.
 
-I have also included my attempted C code library.
+I have also included my attempted C code library. Unfortunetly, I could not get my code to compile onto the Arduino through this method, however, I will explain what the purpose of each file included was down below.
 
 **LEDStrip.h** - The attempted library file, where I intially create methods names/variables specifically for pin and LED #.
 
