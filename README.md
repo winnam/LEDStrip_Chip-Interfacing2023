@@ -17,7 +17,7 @@ Here is the circuit set up for the WS2812B :
 
 Here are some example videos of me demonstating the WS2812B with Arduino code in use:
 
-  **Demo of LEDStrip_TurnOn :** https://youtu.be/NH3GY-Agt4Y
+  **Demo of LEDStrip_TurnOn :** https://youtu.be/1ozGPQCLGUI
   
     Note: In "LEDStrip_TurnOn", I assigned a single color to turn on and fill all the LEDs in the strip. I put in comments the different color values that can be
     used if users want to change color.
