@@ -10,6 +10,12 @@ Here are the main methods from the Adadfruit Neopixel Library I used to demonstr
   show() : Turns on the LED pixel (based on whatever color and brightness has been assigned).
   
   rainbow() : An assigned pattern following the order of the rainbow - red, orange, yellow, green, blue, purple, and pink.
+  
+
+Here is the circuit set up for the WS2812B :
+
+[IMG-5143](https://user-images.githubusercontent.com/89352294/229375009-b2cb571f-2e4f-4614-a85e-9c9f348782a7.jpg)
+
 
 Here are some example videos of me demonstating the WS2812B with Arduino code in use:
 
